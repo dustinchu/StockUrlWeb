@@ -28,6 +28,7 @@ dependencies:
   flutter_web_scrollbar: ^0.0.3
   font_awesome_flutter: ^8.11.0
   google_fonts: ^1.1.2
+  url_strategy: ^0.1.1
 
 dev_dependencies:
   flutter_test:
